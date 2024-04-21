@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leta Cheru</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
-<img align ='right' width="400px" src="https://www.pexels.com/photo/person-using-computer-5380603" alt ="codding"></img>
+<img align ='right' width="400px" src="[https://outlane.co/now/new-shot-programmer-animation/](https://dribbble.com/shots/3848914/Programmer.gif)" alt ="codding"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letancheru&label=Profile%20views&color=0e75b6&style=flat" alt="letancheru" /> </p>
 
